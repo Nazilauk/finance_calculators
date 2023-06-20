@@ -7,6 +7,7 @@ This program is designed to help users access two different financial calculator
 
 Table of Contents
 -------------------
+
 Installation
 Usage
 Code 

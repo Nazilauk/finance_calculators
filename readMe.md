@@ -1,8 +1,4 @@
 
-![finance_calculator](https://github.com/Nazilauk/finance_calculators/assets/127387087/a7a18d9c-9e06-4567-8d10-fb8b15582645)
-
-
-
 Financial Calculator
 ----------------------
 This program is designed to help users access two different financial calculators - an investment calculator and a home loan repayment calculator. With this program, users will be able to calculate interest earned on investments, as well as monthly payments on home loans.

@@ -6,8 +6,11 @@ Financial Calculator
 Table of Contents
 -------------------
 -code
+
 -Installation
+
 -Usage
+
 -Credits
 
 

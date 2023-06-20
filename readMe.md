@@ -5,14 +5,13 @@ Financial Calculator
 
 Table of Contents
 -------------------
--code
+code
 
--Installation
+Installation
 
--Usage
+Usage
 
--Credits
-
+Credits
 
 ----------------------
 ![image](https://github.com/Nazilauk/finance_calculators/assets/127387087/4ea4f8e0-57e3-42c4-a2c2-4cc92642effa)

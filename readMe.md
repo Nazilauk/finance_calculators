@@ -1,4 +1,5 @@
 
+![finance_calculator](https://github.com/Nazilauk/finance_calculators/assets/127387087/a7a18d9c-9e06-4567-8d10-fb8b15582645)
 
 
 

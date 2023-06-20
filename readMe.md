@@ -18,6 +18,12 @@ Credits
 ----------------------------------------------------------------------------------------------------------------
 Installation
 ----------------
+![image](https://github.com/Nazilauk/finance_calculators/assets/127387087/4ea4f8e0-57e3-42c4-a2c2-4cc92642effa)
+
+
+
+
+
 To run this program, you will need to have Python 3 or above installed on your device. You can download the latest version of Python here. Once Python is installed, simply download or clone this repository and run the financial_calculator.py file using a Python IDE or command prompt.
 ------------------------------------------------------------------------------------------------------------------
 Usage

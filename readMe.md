@@ -1,6 +1,7 @@
 
 Financial Calculator
 ----------------------
+![image](https://github.com/Nazilauk/finance_calculators/assets/127387087/4ea4f8e0-57e3-42c4-a2c2-4cc92642effa)
 This program is designed to help users access two different financial calculators - an investment calculator and a home loan repayment calculator. With this program, users will be able to calculate interest earned on investments, as well as monthly payments on home loans.
 ----------------------------------------------------------------------------------------------------------------
 
@@ -14,8 +15,6 @@ Credits
 ----------------------------------------------------------------------------------------------------------------
 Installation
 ----------------
-![image](https://github.com/Nazilauk/finance_calculators/assets/127387087/4ea4f8e0-57e3-42c4-a2c2-4cc92642effa)
-
 To run this program, you will need to have Python 3 or above installed on your device. You can download the latest version of Python here. Once Python is installed, simply download or clone this repository and run the financial_calculator.py file using a Python IDE or command prompt.
 ------------------------------------------------------------------------------------------------------------------
 Usage

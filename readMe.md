@@ -2,7 +2,6 @@
 Financial Calculator
 ----------------------
 This program is designed to help users access two different financial calculators - an investment calculator and a home loan repayment calculator. With this program, users will be able to calculate interest earned on investments, as well as monthly payments on home loans.
-----------------------------------------------------------------------------------------------------------------
 
 Table of Contents
 -------------------
